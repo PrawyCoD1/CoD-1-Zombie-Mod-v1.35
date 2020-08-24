@@ -1,0 +1,2 @@
+# CoD-1-Zombie-Mod-v1.35
+BraXi,kaje11,Prawy's Zombies Mod v1.35 for CoD 1 The complete source code of the second revision of CoD1 Zombies Mod created almost solely by BraXi and edited by kaje11 and Prawy  Do whatever you want with it, but don't remove this file and keep authors of the mod, they need some respect for sharing their work. Feel free to modify assets in this mod.  Mod works only with CoD1 1.5 but some people reported success running it on version 1.4 aswell. 
